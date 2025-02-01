@@ -1,2 +1,1 @@
-
-Here are the results of two algorithms implemented in Azure ML Designer along with their performance metrics on classification dataset
+This repository showcases the results of two classification algorithms implemented in Azure ML Designer, along with their performance metrics. The project demonstrates the end-to-end process of building, training, and evaluating machine learning models using Azure's drag-and-drop interface. The performance metrics (e.g., accuracy, precision, recall, F1-score) for each algorithm are provided to compare their effectiveness on the classification dataset. This serves as a practical example of leveraging Azure ML Designer for machine learning tasks. For questions or further details,
